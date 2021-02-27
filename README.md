@@ -1,4 +1,4 @@
-# My Blog Example
+# 📓 My Blog Examples
 
 **Website:** https://jamescook.dev
 
