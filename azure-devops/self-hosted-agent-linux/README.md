@@ -2,4 +2,4 @@
 
 | Content      | Description        |
 | ------------ |------------------|
-| [automate-agent-install](/automate-agent-install) | Automate agent install using Terraform |
+| [automate-agent-install](./automate-agent-install) | Automate agent install using Terraform |

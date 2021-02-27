@@ -2,4 +2,4 @@
 
 | Content      | Description        |
 | ------------ |------------------|
-| [self-hosted-agent-linux](/self-hosted-agent-linux) | Self-Hosted Linux agent content |
+| [self-hosted-agent-linux](./self-hosted-agent-linux) | Self-Hosted Linux agent content |
