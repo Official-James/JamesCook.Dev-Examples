@@ -1,0 +1,1 @@
+packer build ./coreimage.json
