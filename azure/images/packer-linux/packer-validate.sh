@@ -1,0 +1,1 @@
+packer validate ./coreimage.json
